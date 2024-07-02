@@ -14,3 +14,6 @@ An initial bounding volume hierarchy is created and then refitted every frame.
 Not included in this repository but necessary to build and run the demo:
 - Libraries/glew: glew.h and binaries in include, lib, and bin directories
 - Libraries/glm: [glm](https://github.com/icaven/glm) math library
+
+## Credits
+- [Ross Nordby](https://github.com/RossNordby), creator of [bepuphysics2](https://www.bepuentertainment.com/)
